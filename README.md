@@ -28,7 +28,7 @@ Cada pasta neste repositório contém um dos projetos principais realizados dura
 	• Projeto 2: Banco de Dados Avançado
 	• Projeto 3: Bibliotecas Python
 	• Projeto 4: Estatística & Testes de hipóteses
-  • Projeto Final: Análise de Dados
+  	• Projeto Final: Análise de Dados
 
 
 ## 🎯 Objetivos
